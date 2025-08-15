@@ -1,0 +1,81 @@
+[16:27:19] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[16:27:19] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[16:27:20] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[16:27:20] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[16:27:27] [ServerMain/WARN]: resource-pack-id missing, using default of 61ad610f-a171-3082-b69f-bce05e3df725
+[16:27:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:27:31] [ServerMain/INFO]: Loaded 1407 recipes
+[16:27:31] [ServerMain/INFO]: Loaded 1520 advancements
+[16:27:31] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[16:27:32] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 587.8ms
+[16:27:32] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[16:27:32] [Server thread/INFO]: Loading properties
+[16:27:32] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[16:27:32] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[16:27:32] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:27:32] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:27:34] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[16:27:34] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[16:27:34] [Server thread/INFO]: Default game type: SURVIVAL
+[16:27:34] [Server thread/INFO]: Generating keypair
+[16:27:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:27:34] [Server thread/INFO]: Using epoll channel type
+[16:27:34] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[16:27:34] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[16:27:34] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:27:34] [Server thread/INFO]: Preparing level "world"
+[16:27:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:27:36] [Server thread/INFO]: Preparing spawn area: 0%
+[16:27:36] [Server thread/INFO]: Preparing spawn area: 0%
+[16:27:37] [Server thread/INFO]: Preparing spawn area: 0%
+[16:27:37] [Server thread/INFO]: Preparing spawn area: 0%
+[16:27:38] [Server thread/INFO]: Preparing spawn area: 0%
+[16:27:38] [Server thread/INFO]: Time elapsed: 2060 ms
+[16:27:38] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:27:38] [Server thread/INFO]: Preparing spawn area: 0%
+[16:27:38] [Server thread/INFO]: Time elapsed: 391 ms
+[16:27:38] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:27:38] [Server thread/INFO]: Preparing spawn area: 0%
+[16:27:38] [Server thread/INFO]: Time elapsed: 191 ms
+[16:27:39] [Server thread/INFO]: [spark] Starting background profiler...
+[16:27:39] [Server thread/INFO]: Done preparing level "world" (4.443s)
+[16:27:39] [Server thread/INFO]: Running delayed init tasks
+[16:27:39] [Server thread/INFO]: Done (20.892s)! For help, type "help"
+[16:27:55] [User Authenticator #0/INFO]: UUID of player ThebrosXD is ac889c61-5016-4a68-be9f-2dfdcc9a0cad
+[16:27:58] [Server thread/INFO]: ThebrosXD joined the game
+[16:27:58] [Server thread/INFO]: ThebrosXD[/127.7.14.88:38877] logged in with entity id 99 at ([world]-489.1454202346278, 64.0, -962.1824474315431)
+[16:28:47] [Server thread/INFO]: ThebrosXD lost connection: Disconnected
+[16:28:47] [Server thread/INFO]: ThebrosXD left the game
+[16:28:53] [Server thread/INFO]: Stopping the server
+[16:28:53] [Server thread/INFO]: Stopping server
+[16:28:53] [Server thread/INFO]: Saving players
+[16:28:53] [Server thread/INFO]: Saving worlds
+[16:28:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:28:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[16:28:54] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[16:28:54] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[16:28:56] [Server thread/INFO]: [ChunkHolderManager] Saved 776 block chunks, 776 entity chunks, 1 poi chunks in world 'world' in 2.50s
+[16:28:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[16:28:56] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[16:28:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[16:28:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[16:28:56] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[16:28:56] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[16:28:56] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.20s
+[16:28:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[16:28:56] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[16:28:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[16:28:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[16:28:56] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[16:28:56] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[16:28:56] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.08s
+[16:28:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[16:28:56] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[16:28:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:28:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:28:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:28:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:28:56] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[16:28:56] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[16:28:56] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[16:28:56] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
