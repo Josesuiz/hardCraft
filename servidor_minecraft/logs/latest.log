@@ -1,281 +1,140 @@
-[01:52:30] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[01:52:30] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[01:52:30] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[01:52:30] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[01:52:34] [ServerMain/WARN]: resource-pack-id missing, using default of 61ad610f-a171-3082-b69f-bce05e3df725
-[01:52:34] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:52:35] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
-[01:52:35] [ServerMain/INFO]: Found new data pack paper, loading it automatically
-[01:52:35] [ServerMain/INFO]: No existing world data, creating new world
-[01:52:36] [ServerMain/INFO]: Loaded 1407 recipes
-[01:52:36] [ServerMain/INFO]: Loaded 1520 advancements
-[01:52:36] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[01:52:37] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 509.1ms
-[01:52:37] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[01:52:37] [Server thread/INFO]: Loading properties
-[01:52:37] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[01:52:37] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[01:52:37] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:52:37] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:52:38] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[01:52:38] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[01:52:38] [Server thread/INFO]: Default game type: SURVIVAL
-[01:52:38] [Server thread/INFO]: Generating keypair
-[01:52:38] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:52:38] [Server thread/INFO]: Using epoll channel type
-[01:52:38] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[01:52:38] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[01:52:38] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:52:38] [Server thread/INFO]: Preparing level "world"
-[01:52:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:52:48] [Server thread/INFO]: Preparing spawn area: 2%
-[01:52:48] [Server thread/INFO]: Preparing spawn area: 2%
-[01:52:49] [Server thread/INFO]: Preparing spawn area: 2%
-[01:52:50] [Server thread/INFO]: Preparing spawn area: 4%
-[01:52:50] [Server thread/INFO]: Preparing spawn area: 18%
-[01:52:50] [Server thread/INFO]: Preparing spawn area: 18%
-[01:52:51] [Server thread/INFO]: Preparing spawn area: 18%
-[01:52:51] [Server thread/INFO]: Preparing spawn area: 48%
-[01:52:52] [Server thread/INFO]: Preparing spawn area: 51%
-[01:52:52] [Server thread/INFO]: Preparing spawn area: 51%
-[01:52:53] [Server thread/INFO]: Preparing spawn area: 75%
-[01:52:53] [Server thread/INFO]: Time elapsed: 5075 ms
-[01:52:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[01:52:53] [Server thread/INFO]: Preparing spawn area: 2%
-[01:52:53] [Server thread/INFO]: Preparing spawn area: 14%
-[01:52:54] [Server thread/INFO]: Preparing spawn area: 34%
-[01:52:54] [Server thread/INFO]: Preparing spawn area: 55%
-[01:52:55] [Server thread/INFO]: Time elapsed: 1774 ms
-[01:52:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[01:52:55] [Server thread/INFO]: Preparing spawn area: 2%
-[01:52:55] [Server thread/INFO]: Preparing spawn area: 53%
-[01:52:55] [Server thread/INFO]: Time elapsed: 609 ms
-[01:52:55] [Server thread/INFO]: [spark] Starting background profiler...
-[01:52:56] [Server thread/INFO]: Done preparing level "world" (17.265s)
-[01:52:56] [Server thread/INFO]: Running delayed init tasks
-[01:52:56] [Server thread/INFO]: Done (27.008s)! For help, type "help"
-[01:53:00] [User Authenticator #0/INFO]: UUID of player SrArthuro is d76a0a41-42b7-4708-a6fb-21d044903d04
-[01:53:02] [User Authenticator #0/INFO]: UUID of player Angelichi25 is 3d13c512-f100-496f-8e3a-381f67ff93f4
-[01:53:05] [Server thread/INFO]: Angelichi25 joined the game
-[01:53:05] [Server thread/INFO]: Angelichi25[/127.164.205.249:50991] logged in with entity id 71 at ([world]8.5, 68.0, -3.5)
-[01:53:07] [Server thread/INFO]: SrArthuro joined the game
-[01:53:07] [Server thread/INFO]: SrArthuro[/127.207.17.91:60649] logged in with entity id 119 at ([world]10.5, 68.0, -6.5)
-[01:55:17] [Server thread/INFO]: SrArthuro has made the advancement [Stone Age]
-[01:55:33] [User Authenticator #1/INFO]: UUID of player ThebrosXD is ac889c61-5016-4a68-be9f-2dfdcc9a0cad
-[01:55:38] [Server thread/INFO]: ThebrosXD joined the game
-[01:55:38] [Server thread/INFO]: ThebrosXD[/127.7.14.88:42687] logged in with entity id 2402 at ([world]-8.5, 63.0, 11.5)
-[01:56:16] [Server thread/INFO]: ThebrosXD was kicked due to keepalive timeout!
-[01:56:16] [Server thread/INFO]: ThebrosXD lost connection: Timed out
-[01:56:16] [Server thread/INFO]: ThebrosXD left the game
-[01:56:17] [Server thread/INFO]: SrArthuro has made the advancement [Getting an Upgrade]
-[01:58:00] [Server thread/INFO]: Angelichi25 has made the advancement [Stone Age]
-[01:58:22] [Server thread/INFO]: Angelichi25 has made the advancement [Getting an Upgrade]
-[02:00:32] [User Authenticator #2/INFO]: UUID of player ThebrosXD is ac889c61-5016-4a68-be9f-2dfdcc9a0cad
-[02:00:35] [Server thread/INFO]: ThebrosXD joined the game
-[02:00:35] [Server thread/INFO]: ThebrosXD[/127.7.14.88:49227] logged in with entity id 3919 at ([world]-8.5, 63.0, 11.5)
-[02:01:13] [Server thread/INFO]: ThebrosXD was kicked due to keepalive timeout!
-[02:01:13] [Server thread/INFO]: ThebrosXD lost connection: Timed out
-[02:01:13] [Server thread/INFO]: ThebrosXD left the game
-[02:01:45] [User Authenticator #3/INFO]: UUID of player ThebrosXD is ac889c61-5016-4a68-be9f-2dfdcc9a0cad
-[02:01:46] [Server thread/INFO]: --------- Help: Index ---------------------------------
-[02:01:46] [Server thread/INFO]: Use /help [n] to get page n of help.
-[02:01:46] [Server thread/INFO]: Aliases: Lists command aliases
-[02:01:46] [Server thread/INFO]: Bukkit: All commands for Bukkit
-[02:01:46] [Server thread/INFO]: Minecraft: All commands for Minecraft
-[02:01:46] [Server thread/INFO]: Paper: All commands for Paper
-[02:01:46] [Server thread/INFO]: /about: Gets the version of this server including any plugins in use
-[02:01:46] [Server thread/INFO]: /advancement: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /attribute: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /ban: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /ban-ip: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /banlist: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /bossbar: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /bukkit:about: Gets the version of this server including any plugins in use
-[02:01:46] [Server thread/INFO]: /bukkit:pl: Gets a list of plugins running on the server
-[02:01:46] [Server thread/INFO]: /bukkit:plugins: Gets a list of plugins running on the server
-[02:01:46] [Server thread/INFO]: /bukkit:ver: Gets the version of this server including any plugins in use
-[02:01:46] [Server thread/INFO]: /bukkit:version: Gets the version of this server including any plugins in use
-[02:01:46] [Server thread/INFO]: /clear: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /clone: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /damage: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /data: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /datapack: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /debug: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /defaultgamemode: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /deop: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /dialog: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /difficulty: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /effect: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /enchant: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /execute: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /experience: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /fill: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /fillbiome: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /forceload: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /function: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /gamemode: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /gamerule: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /give: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /help: Shows the help menu
-[02:01:46] [Server thread/INFO]: /item: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /jfr: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /kick: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /kill: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /list: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /locate: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /loot: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /me: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:advancement: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:attribute: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:ban: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:ban-ip: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:banlist: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:bossbar: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:clear: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:clone: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:damage: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:data: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:datapack: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:debug: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:defaultgamemode: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:deop: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:dialog: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:difficulty: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:effect: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:enchant: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:execute: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:experience: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:fill: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:fillbiome: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:forceload: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:function: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:gamemode: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:gamerule: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:give: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:help: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:item: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:jfr: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:kick: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:kill: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:list: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:locate: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:loot: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:me: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:msg: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:op: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:pardon: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:pardon-ip: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:particle: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:perf: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:place: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:playsound: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:random: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:recipe: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:reload: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:return: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:ride: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:rotate: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:save-all: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:save-off: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:save-on: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:say: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:schedule: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:scoreboard: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:seed: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:setblock: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:setidletimeout: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:setworldspawn: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:spawnpoint: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:spectate: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:spreadplayers: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:stop: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:stopsound: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:summon: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:tag: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:team: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:teammsg: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:teleport: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:tell: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:tellraw: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:test: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:tick: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:time: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:title: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:tm: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:tp: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:transfer: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:trigger: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:version: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:w: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:waypoint: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:weather: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:whitelist: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:worldborder: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /minecraft:xp: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /msg: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /mspt: View server tick times
-[02:01:46] [Server thread/INFO]: /op: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /paper: Paper related commands
-[02:01:46] [Server thread/INFO]: /paper:spark: 
-[02:01:46] [Server thread/INFO]: /pardon: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /pardon-ip: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /particle: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /perf: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /pl: Gets a list of plugins running on the server
-[02:01:46] [Server thread/INFO]: /place: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /playsound: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
-[02:01:46] [Server thread/INFO]: /random: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /recipe: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /reload: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /restart: Restarts the server
-[02:01:46] [Server thread/INFO]: /return: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /ride: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /rotate: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /save-all: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /save-off: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /save-on: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /say: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /schedule: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /scoreboard: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /seed: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /setblock: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /setidletimeout: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /setworldspawn: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /spark: 
-[02:01:46] [Server thread/INFO]: /spawnpoint: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /spectate: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /spigot: Spigot related commands
-[02:01:46] [Server thread/INFO]: /spreadplayers: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /stop: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /stopsound: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /summon: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /tag: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /team: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /teammsg: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /teleport: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /tell: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /tellraw: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /test: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /tick: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /time: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /timings: Manages Spigot Timings data to see performance of the server.
-[02:01:46] [Server thread/INFO]: /title: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /tm: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /tp: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /tps: Gets the current ticks per second for the server
-[02:01:46] [Server thread/INFO]: /transfer: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /trigger: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /ver: Gets the version of this server including any plugins in use
-[02:01:46] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
-[02:01:46] [Server thread/INFO]: /w: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /waypoint: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /weather: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /whitelist: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /worldborder: A Mojang provided command.
-[02:01:46] [Server thread/INFO]: /xp: A Mojang provided command.
-[02:01:48] [Server thread/INFO]: ThebrosXD joined the game
-[02:01:48] [Server thread/INFO]: ThebrosXD[/127.7.14.88:42439] logged in with entity id 4538 at ([world]-20.424273701807202, 63.0, 49.48595677014651)
-[02:02:25] [Server thread/INFO]: ThebrosXD was kicked due to keepalive timeout!
-[02:02:25] [Server thread/INFO]: ThebrosXD lost connection: Timed out
-[02:02:25] [Server thread/INFO]: ThebrosXD left the game
+[03:07:57] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[03:07:57] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[03:07:57] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[03:07:57] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[03:07:57] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+ - InteractionVisualizer (1.18.16.0)
+[03:08:02] [ServerMain/WARN]: resource-pack-id missing, using default of 61ad610f-a171-3082-b69f-bce05e3df725
+[03:08:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:08:02] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[03:08:02] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[03:08:03] [ServerMain/INFO]: No existing world data, creating new world
+[03:08:04] [ServerMain/INFO]: Loaded 1407 recipes
+[03:08:04] [ServerMain/INFO]: Loaded 1520 advancements
+[03:08:04] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[03:08:04] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 407.7ms
+[03:08:04] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[03:08:04] [Server thread/INFO]: Loading properties
+[03:08:04] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[03:08:05] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[03:08:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:08:05] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:08:05] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[03:08:05] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[03:08:06] [Server thread/INFO]: Default game type: SURVIVAL
+[03:08:06] [Server thread/INFO]: Generating keypair
+[03:08:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:08:06] [Server thread/INFO]: Using epoll channel type
+[03:08:06] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[03:08:06] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[03:08:06] [Server thread/INFO]: [InteractionVisualizer] Loading server plugin InteractionVisualizer v1.18.16.0
+[03:08:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:08:06] [Server thread/INFO]: Preparing level "world"
+[03:08:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:08:16] [Server thread/INFO]: Preparing spawn area: 2%
+[03:08:16] [Server thread/INFO]: Preparing spawn area: 2%
+[03:08:17] [Server thread/INFO]: Preparing spawn area: 2%
+[03:08:17] [Server thread/INFO]: Preparing spawn area: 2%
+[03:08:18] [Server thread/INFO]: Preparing spawn area: 2%
+[03:08:18] [Server thread/INFO]: Preparing spawn area: 8%
+[03:08:19] [Server thread/INFO]: Preparing spawn area: 18%
+[03:08:19] [Server thread/INFO]: Preparing spawn area: 18%
+[03:08:20] [Server thread/INFO]: Preparing spawn area: 18%
+[03:08:20] [Server thread/INFO]: Preparing spawn area: 30%
+[03:08:21] [Server thread/INFO]: Preparing spawn area: 53%
+[03:08:21] [Server thread/INFO]: Preparing spawn area: 53%
+[03:08:22] [Server thread/INFO]: Preparing spawn area: 61%
+[03:08:22] [Server thread/INFO]: Preparing spawn area: 61%
+[03:08:23] [Server thread/INFO]: Time elapsed: 6989 ms
+[03:08:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[03:08:23] [Server thread/INFO]: Preparing spawn area: 2%
+[03:08:23] [Server thread/INFO]: Preparing spawn area: 8%
+[03:08:24] [Server thread/INFO]: Preparing spawn area: 18%
+[03:08:24] [Server thread/INFO]: Preparing spawn area: 73%
+[03:08:24] [Server thread/INFO]: Time elapsed: 1753 ms
+[03:08:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[03:08:24] [Server thread/INFO]: Preparing spawn area: 2%
+[03:08:25] [Server thread/INFO]: Time elapsed: 451 ms
+[03:08:25] [Server thread/INFO]: [InteractionVisualizer] Enabling InteractionVisualizer v1.18.16.0
+[03:08:29] [Server thread/INFO]: [InteractionVisualizer] Opened Sqlite database successfully
+[03:08:30] [Server thread/INFO]: [InteractionVisualizer] InteractionVisualizer has been enabled!
+[03:08:31] [Server thread/INFO]: [spark] Starting background profiler...
+[03:08:31] [Server thread/INFO]: Done preparing level "world" (24.752s)
+[03:08:31] [Server thread/INFO]: Running delayed init tasks
+[03:08:31] [Server thread/INFO]: Done (34.770s)! For help, type "help"
+[03:08:31] [Craft Scheduler Thread - 3 - InteractionVisualizer/INFO]: [InteractionVisualizer] Downloading and extracting latest Language files...
+[03:08:31] [Craft Scheduler Thread - 3 - InteractionVisualizer/INFO]: [InteractionVisualizer] Sucessfully downloaded the latest Language files!
+[03:08:32] [User Authenticator #0/INFO]: UUID of player Angelichi25 is 3d13c512-f100-496f-8e3a-381f67ff93f4
+[03:08:34] [Server thread/INFO]: Angelichi25 joined the game
+[03:08:34] [Server thread/INFO]: Angelichi25[/127.164.205.249:43355] logged in with entity id 55 at ([world]-109.5, 135.0, -75.5)
+[03:08:42] [User Authenticator #0/INFO]: UUID of player ThebrosXD is ac889c61-5016-4a68-be9f-2dfdcc9a0cad
+[03:08:44] [Server thread/INFO]: ThebrosXD joined the game
+[03:08:44] [Server thread/INFO]: ThebrosXD[/127.7.14.88:34269] logged in with entity id 164 at ([world]-108.5, 128.0, -89.5)
+[03:08:45] [User Authenticator #0/INFO]: UUID of player SrArthuro is d76a0a41-42b7-4708-a6fb-21d044903d04
+[03:08:49] [Server thread/INFO]: SrArthuro joined the game
+[03:08:49] [Server thread/INFO]: SrArthuro[/127.207.17.91:44201] logged in with entity id 186 at ([world]-120.5, 125.0, -86.5)
+[03:09:38] [Server thread/INFO]: ThebrosXD has made the advancement [Stone Age]
+[03:09:45] [Server thread/INFO]: Angelichi25 has made the advancement [Stone Age]
+[03:09:53] [Server thread/INFO]: Angelichi25 has made the advancement [Getting an Upgrade]
+[03:09:54] [Server thread/INFO]: ThebrosXD has made the advancement [Getting an Upgrade]
+[03:10:27] [Server thread/INFO]: SrArthuro has made the advancement [Stone Age]
+[03:10:35] [Server thread/INFO]: Angelichi25 has made the advancement [Acquire Hardware]
+[03:10:49] [Server thread/INFO]: SrArthuro has made the advancement [Getting an Upgrade]
+[03:11:52] [Server thread/INFO]: SrArthuro has made the advancement [Monster Hunter]
+[03:13:51] [Server thread/INFO]: SrArthuro has made the advancement [Acquire Hardware]
+[03:14:07] [Server thread/INFO]: ThebrosXD has made the advancement [Acquire Hardware]
+[03:15:17] [Server thread/INFO]: ThebrosXD has made the advancement [Isn't It Iron Pick]
+[03:15:25] [Server thread/INFO]: ThebrosXD has made the advancement [Not Today, Thank You]
+[03:15:36] [Server thread/INFO]: ThebrosXD has made the advancement [Monster Hunter]
+[03:16:01] [Server thread/INFO]: SrArthuro has made the advancement [Suit Up]
+[03:19:55] [Server thread/INFO]: Angelichi25 has made the advancement [Isn't It Iron Pick]
+[03:23:25] [Server thread/INFO]: Angelichi25 has made the advancement [Suit Up]
+[03:23:59] [Server thread/INFO]: Angelichi25 has made the advancement [Monster Hunter]
+[03:24:24] [Server thread/INFO]: ThebrosXD has made the advancement [Suit Up]
+[03:25:42] [Server thread/INFO]: Angelichi25 has made the advancement [Not Today, Thank You]
+[03:27:06] [Server thread/INFO]: ThebrosXD has made the advancement [Hot Stuff]
+[03:33:28] [Server thread/INFO]: SrArthuro has made the advancement [Isn't It Iron Pick]
+[03:37:25] [Server thread/INFO]: ThebrosXD has made the advancement [Sneak 100]
+[03:43:50] [Server thread/INFO]: ThebrosXD lost connection: Disconnected
+[03:43:50] [Server thread/INFO]: ThebrosXD left the game
+[03:43:53] [Server thread/INFO]: SrArthuro lost connection: Disconnected
+[03:43:53] [Server thread/INFO]: SrArthuro left the game
+[03:44:01] [Server thread/INFO]: Stopping the server
+[03:44:01] [Server thread/INFO]: Stopping server
+[03:44:01] [Server thread/INFO]: [InteractionVisualizer] Disabling InteractionVisualizer v1.18.16.0
+[03:44:01] [Server thread/INFO]: [InteractionVisualizer] Saving player preferences bitmask index, do not halt the server.
+[03:44:01] [Server thread/INFO]: [InteractionVisualizer] Plugin reload detected, attempting to despawn all visual entities. If anything went wrong, please restart! (Reloads are always not recommended)
+[03:44:01] [Server thread/INFO]: [InteractionVisualizer] InteractionVisualizer has been disabled!
+[03:44:01] [Server thread/INFO]: Saving players
+[03:44:01] [Server thread/INFO]: Angelichi25 lost connection: Server closed
+[03:44:01] [Server thread/INFO]: Angelichi25 left the game
+[03:44:01] [Server thread/INFO]: Saving worlds
+[03:44:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:44:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[03:44:01] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[03:44:01] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[03:44:02] [Server thread/INFO]: [ChunkHolderManager] Saved 601 block chunks, 314 entity chunks, 3 poi chunks in world 'world' in 1.06s
+[03:44:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[03:44:02] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[03:44:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[03:44:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[03:44:02] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[03:44:02] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[03:44:02] [Server thread/INFO]: [ChunkHolderManager] Saved 792 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.28s
+[03:44:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[03:44:02] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[03:44:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[03:44:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[03:44:02] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[03:44:02] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[03:44:03] [Server thread/INFO]: [ChunkHolderManager] Saved 792 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.20s
+[03:44:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[03:44:03] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[03:44:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:44:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:44:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:44:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:44:03] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[03:44:03] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[03:44:03] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[03:44:03] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
